@@ -15,7 +15,8 @@
 13.	MIS 	
 14.	GUI 	
 15.	BIT 	
-16.	AWS 	
+16.	AWS 	Autonomous Web Service
+  Any piece of software that makes itself available over the internet and uses a standardized XML messaging system. 
 17.	GPU 	
 18.	POST	
 19.	CMS	
@@ -39,7 +40,8 @@
 37.	GHz 	
 38.	WYSIWYG 
 39.	RAID	
-40.	SCSI 	
+40.	SCSI 	Small Computer System Interface
+  Set of standards for physically connecting and transferring data between computers and peripheral devices.
 41.	P2P 	
 42.	UPS 	
 43.	BPS	
@@ -63,7 +65,8 @@
 61.	W3C	
 62.	XML	
 63.	VPN
-64.	RTF
+64.	RTF   Rich Text Format 
+  A proprietary document file format with published specification developed by Microsoft Corporation from 1987 until 2008 for cross-platform document interchange.
 65.	IDE
 66.	SATA
 67.	GUID
