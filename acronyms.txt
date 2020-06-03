@@ -37,7 +37,7 @@
 34.	TCP/IP  	
 35.	DIMM 	
 36.	O365 	
-37.	GHz 	
+37.	GHz 	 
 38.	WYSIWYG 
 39.	RAID	
 40.	SCSI 	Small Computer System Interface
